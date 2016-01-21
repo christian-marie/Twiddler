@@ -8,7 +8,7 @@ Simplified Backspice layout
 |  n    t    r  |  f    l    w  |  v = r + h
 |               |   j           |  x = o + a
 |  a    h   TAB |  k    m       |  y = i + h
-|---------------|---------------|  z = o + i + a
+|---------------|---------------|  z = o + n + a
 |  •            |            •  |  : = i + a
 |               |               |  " = e + r + h
 |  1    2    3  |  ,  ENTER  .  |  ' = o + r + h
